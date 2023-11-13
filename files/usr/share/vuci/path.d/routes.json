@@ -1,0 +1,4 @@
+[
+
+    { "/task_c/{service_group}/{sid}": "services/config" }
+]

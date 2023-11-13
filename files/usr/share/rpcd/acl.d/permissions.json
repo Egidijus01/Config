@@ -1,0 +1,15 @@
+{
+  "services/example": {
+    "description": "App permissions",
+    "read": {
+      "api": [
+        "/task_c/*"
+      ]
+    },
+    "write": {
+      "api": [
+        "/task_c/*"
+      ]
+    }
+  }
+}
